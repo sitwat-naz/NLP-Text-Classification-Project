@@ -37,3 +37,19 @@ Logistic Regression significantly outperformed LSTM on this dataset.
 LSTM showed poor performance due to limited training and lack of hyperparameter tuning.
 
 ## 🗂 Folder Structure
+NLP-Text-Classification-Project
+│
+├── NLP_Text_Classification.ipynb
+├── README.md
+├── requirements.txt
+├── LICENSE
+└── data
+    └── dataset_link.txt
+
+
+## ▶ How to Run
+
+1. Clone the repository  
+2. Install dependencies:
+3. Open the Jupyter/ colab Notebook and run all cells.
+
